@@ -1,11 +1,8 @@
 //Isaiah Grief
 public class RandomNim{
-  int numpieces = 0;
   public RandomNim(){
-    numpieces = 13;
   }
     public RandomNim(int startNumPieces){
-    numpieces = startNumPieces;
   }
   
   public int play(int pieces){
